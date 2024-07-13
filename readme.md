@@ -9,11 +9,11 @@ MONGODB:
 BACKEND:
 
     1. Navigate to backend and run npm i to install all dependancies
-    2. Run npm run start. 
+    2. Run npm i. 
     3. The app will start polling data from coingecko every 5 seconds for a set of cryptocurrencies
     3. On localhost:3000 requests will be sent by frontend to fetch data from MongoDB using an 'get' API
 
 FRONTEND:
 
-    1. Run npm run start. 
+    1. Run npm i 
     2. Run npm run dev under my-app
